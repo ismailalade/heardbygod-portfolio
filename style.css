@@ -1,0 +1,55 @@
+html {background-color: antiquewhite;}
+* h1 {color: #41B06E}
+* h1 {text-align: center;}
+* h2 {text-align: center;}
+* h2 {color: #41B06E;}
+* p {color: #41B06E;}
+.about {font-size: 20px;}
+.contact {font-size: 20px;}
+
+.webcodeft-webdevelopment-scaled {
+    border: 5px solid white;
+    width: 500px;
+    height: 300px;
+}
+
+.Website-Development {
+    border: 5px solid white;
+    width: 500px;
+    height: 300px;
+}
+
+.heading {
+    background-color: #FCFFE0;
+}
+
+.green { color: #41B06E;}
+.lanpro { color: #41B06E;}
+.NE {
+    color: #41B06E;
+}
+.networkeng {
+    border: 5px solid chocolate;
+    width: 500px;
+    height: 300px;
+}
+.networklab {
+    border: 5px solid chocolate;
+    width: 500px;
+    height: 300px;
+}
+.CCNAPRO {
+    color: #41B06E;
+}
+.FM {color: #41B06E;}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+li {
+    color: brown;
+}
