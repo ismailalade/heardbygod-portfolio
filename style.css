@@ -53,3 +53,20 @@ img {
 li {
     color: brown;
 }
+
+.home {
+    font-family: "Jersey 25 Charted", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+  text-align: center;
+}
+
+.buttom {
+    background-color: wheat;
+    font-family: "Jersey 25 Charted", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+  text-align: center;
+}
